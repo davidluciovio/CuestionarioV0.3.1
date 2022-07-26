@@ -1,0 +1,116 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    font-weight: bold;
+}
+#Card_01
+{
+    background-color: #ffffff;
+    width: 720px;
+    height: 512px;
+    margin: 10% auto;
+    padding: 0px;
+    text-align: left;
+    display: block;
+
+    border-radius: 25px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 15px;
+}
+
+    #Card_011 {
+        float: left;
+        background-color: #00337A;
+        width: 60%;
+        height: 100%;
+        margin: 0px;
+
+        border-radius: 25px;
+        box-shadow: rgba(0, 0, 0, 0.45) 5px 0px 10px; 
+    }
+        #Card_012 {
+            float: left;
+            background-color: #00337A;
+            width: 90%;
+            height: 100%;
+            margin: 0px;
+
+            border-radius: 25px;
+            box-shadow: rgba(0, 0, 0, 0.45) 5px 0px 10px; 
+        }
+            #Card_013 {
+                float: left;
+                background-color: #00337A;
+                width: 90%;
+                height: 100%;
+                margin: 0px;
+
+                border-radius: 25px;
+                box-shadow: rgba(0, 0, 0, 0.45) 5px 0px 10px; 
+            }
+    #Card_02{
+        float: left;
+        width: 40%;
+        height: 100%;
+        margin: 0px;
+    }
+        img{
+            width: 80%;
+            margin: 50% 0px 20% 0px;
+        }
+
+        #txtNom {
+            width: 80%;
+            height: 35px;
+            border: none;
+            margin-top: 7.5%;
+            text-align: center;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 15px;
+            font-weight: bold;
+    
+            border-radius: 25px;
+            box-shadow: rgba(0, 0, 0, 0.45) 0px 0px 5px; 
+            }
+
+            #btnd{
+                width: 50px;
+                height: 35px;
+                border: none;
+                margin: -35px 0px 0px 10%; 
+                background-color: #00337A; 
+                border-radius: 25px;
+                position: sticky;
+                }
+
+        #btnEntrar{
+            width: 30%;
+            height: 40px;
+            border: none;
+            margin-top: 7.5%;
+            background-color: #00A100; 
+            border-radius: 25px;
+            color: #fff;
+        }
+            #btnEntrar:hover
+            {
+                width: 30%;
+                height: 40px;
+                border: none;
+                margin-top: 7.5%;
+                background-color: #0c4b0c; 
+                border-radius: 25px;
+                color: #fff;
+            }
+            #btnEntrar:focus
+            {
+                width: 30%;
+                height: 40px;
+                border: none;
+                margin-top: 7.5%;
+                background-color: #022202; 
+                border-radius: 25px;
+                color: #fff;
+            }
+

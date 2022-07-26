@@ -1,0 +1,89 @@
+*{
+    margin: auto;
+    font-weight: bold;
+}
+
+.card_00{
+    background-color: #00337A;
+    width: 960px;
+    height: 682.6px;
+    min-height: 682.6px;
+    margin: 80px auto;
+    padding: 0.5% 0px;
+    
+    border-radius: 25px;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 15px;
+}
+
+.card_01{
+    background-color: #fff;
+    width: 95%;
+    height: 99%;
+
+    border-radius: 25px;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 15px;
+}
+
+    .card_011{
+        background-color: #fff;
+        width: 95%;
+        height: 25%;
+        padding: 0px 0px 0px 35px;
+        display: block;
+        border-radius: 25px;
+    }
+        .card_0111{
+            width: 50%;
+            margin: 0px;
+            float: left;
+        }
+            #logo{
+                width: 40%;
+                padding: 30px 0px 0px 0px;
+            }
+
+            .card_01112{
+                width: 50%;
+            }
+
+        .card_0112{
+            width: 40%;
+            margin: 0px;
+            float: left;
+        }
+            #ayuda{
+                width: 50%;
+                margin: 2% 50%;
+            }
+
+    .card_012{
+        background-color: #fff;
+        width: 95%;
+        height: 72.5%;
+
+        border-radius: 25px;
+        box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 15px;
+    }
+        .pregunta{
+            margin: 10px 5%;
+            background-color: rgba(238, 238, 238, 0.2);
+            padding: 1.5%;
+
+            border-radius: 10px;
+            box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 15px inset;
+            font-weight: bolder;
+        }
+
+        h3.titulo{
+            padding: 10px;
+            text-align: center;
+            font-size: 20px;
+        }
+        h3.NC{
+            margin: 10px 0px;
+            font-size: 20px;
+        }
+        h4{
+            margin: 0px 0px 10px 0px;
+            font-size: 18px;
+        }
